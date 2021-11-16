@@ -10,14 +10,12 @@ page_sections:
   - link_url: "/"
     link_text: Home
   - link_url: "#"
-    link_text: Features
+    link_text: About
   - link_url: "#"
-    link_text: Pricing
-  - link_url: "#"
-    link_text: Team
+    link_text: Join the Pool
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
+    link_text: Donate
     open_in_new_tab: true
 - template: hero-banner-w-image
   block: hero-2
